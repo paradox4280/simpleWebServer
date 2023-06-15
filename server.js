@@ -1,6 +1,6 @@
 import morgan from "morgan"
 import express from "express"
-import serveIndex from "serve-Index"
+import serveIndex from "serve-index"
 
 import { PORT } from "./config/defaults.js"
 
